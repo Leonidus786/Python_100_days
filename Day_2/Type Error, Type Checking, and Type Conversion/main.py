@@ -58,6 +58,26 @@
 # the pieces of data that we're adding together have the same data type, string.
 
 # Now you're not limited to only converting numbers into strings.
-# You can covert a whole bunch of different data types. 
-# 
+# You can covert a whole bunch of different data types.
+# a = 123
+# print(type(a)) # This gives you a integer
 
+# Now let's say I converted to a string by wrapping it inside the string function, then hit enter.
+a = str(123)
+print(type(a))
+
+# Let me ask you two quick questions.
+
+# 1. what will following line of code print? 
+
+print(70 + float("100.5"))
+
+# This will print 170.5 but what's actually happening behind the scene is we're
+# converting this string 100.5 into a floating-point number nad then we're adding 70
+# to 100.5 and finally we're printing the results.
+
+
+# 2. What about this line
+print(str(70) + str(100))
+
+# Well, this time we get 70100.
