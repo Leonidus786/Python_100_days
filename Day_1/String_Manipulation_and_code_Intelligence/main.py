@@ -2,15 +2,18 @@
 # print("Hello World!")
 # print("Hello World!")
 
-#Instead of writing this 3 times we can use "\n" which is a new line character for doing the same
-#thing in a single line of code
+# Instead of writing this 3 times we can use "\n" which is a new line character for doing the same
+# thing in a single line of code
 
 # print("Hello World!\nHello World!\nHello World!")
 
 
-# String --> Set of characters is called strings
+# String --> Set of characters is called strings.
+# Amit = 2
+# print(type(Amit))
+# name = str('Amit')   #using str method
+# print(type(name))
 
-# Concatenation ---> Combine two strings so that they will be added to another string.
 
 # print("Hello" + "Abhishek")  # There should be a space in between two words.
 
@@ -28,4 +31,4 @@
 # print("Hello " + input("What is your name?"))
 
 
-print("hello " +input("what is your mail id? "))
+# print("hello " +input("what is your mail id? "))
