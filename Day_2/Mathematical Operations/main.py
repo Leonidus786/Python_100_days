@@ -15,8 +15,13 @@
 # print(7*3)
 # print(6/9)
 
+
 # Now one thing to notice here is that whenever you're dividing things,
 # you actually always end up with a floating point number.
+
+# print(7/6)
+# print(4/2)
+
 # And this is something that happens with divison in python.
 # But at the end of the day you get the result that you need and it doesn't 
 # really matter whether it it's a float or if it's a integer.
@@ -27,7 +32,7 @@
 # So for example, if you wanted to get a hold of 2 to the power of 2, then you would write it
 # like this and 2 to the power of 2 is of course basically just 2 times 2 which is going to be equal to 4.
 
-print(2**2)
+# print(2**5)
 
 # Having the exponent being built into the language is one of the reasons why 
 # Python is really loved by a lot of data scientists and mathematicians because 
@@ -49,10 +54,10 @@ print(2**2)
 
 
 # So let me give you a real-life example to make this more clear.
-print(3 * 3 + 3 / 3 - 3)
+# print(c)
 
-# If I was to execute this entire line of code and print it out into the console, here's the time where you play computer again and guess using what you've here's 
-# the time where you play computer again and guess using what you've learned here, what exactly will be printed because you will get a number printed,
+# If I was to execute this entire line of code and print it out into the console, here's the time where you play computer again and guess using what you've learned here, 
+#  what exactly will be printed because you will get a number printed,
 # it will calculate this entire line of code for you. But the order matters.
 
 # Now if math is not your strong point, don't worry, it's not mine either and you're the sort of person who would prefer to see it visualize.
@@ -71,5 +76,7 @@ print(3 * 3 + 3 / 3 - 3)
 # So then it's going to go again from left to right, prioritizing multiplication and division.
 # So then it's 3 * 6 is 18. 18 / 3 is 6. 6 - 3 is 3..
 # Just by isolating certain calculations, you can elevate it to right at the top of the priority list and you will be able to perform the calculation that you need.
-# 
-print(3 * (3 + 3) / 3 - 3)
+# https://thonny.org/
+
+
+# print(3 * (3 + 3) / 3 - 3)

@@ -1,3 +1,4 @@
+# BMI 1.0
 # In this exercise, we're going to be writing a program that calculates somebody's Body Mass Index from a user's weight and height.
 # So if you look below in this file, you'll see a link to the Wikipedia page for BMI.
 # And if you click on that, you can learn a little bit more about what the Body mass index is and how it's used.
