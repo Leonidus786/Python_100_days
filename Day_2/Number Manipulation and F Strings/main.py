@@ -28,9 +28,9 @@
 # then you can get hold of this score variable again and instead of saying score now equals the previous value of score plus one,
 # you can simply use this shorthand, +=, so +=1. And now when we print score, you'll see that it's actually equal to 1.
 # So instead of using +=, you can use -=, which just takes the previous version of score and removes 1 from it.
-# *= and /=.So this is really handy when you have to manipulate a value based on its previous value, which you'll have to do a lot in programming.
+#  *= and /=.So this is really handy when you have to manipulate a value based on its previous value, which you'll have to do a lot in programming.
 
-
+# print(8/3)
 
 
 # print(int(8/3))
